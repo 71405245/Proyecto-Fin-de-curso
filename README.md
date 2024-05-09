@@ -13,3 +13,5 @@ aplicación se adapta a las necesidades individuales de cada usuario, ayudándol
 | Iturrizaga Campean Geraldine| Desarrollador 2 |
 | Mejia Poma Liand| Desarrollador 3 |
 | Reymundo Rodriguez Cristhian| Desarrollador 4 |
+| Chuquirachi Martinez Dante| Desarrollador 5 |
+| Fernandez Durán Rafael| Desarrollador 6 |

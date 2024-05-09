@@ -10,6 +10,6 @@ aplicación se adapta a las necesidades individuales de cada usuario, ayudándol
 | APELLIDOS Y NOMBRES | ROL | 
 |---------------------|---|
 | Acevedo Ura Smtih| Desarrollador 1 |
-| Iturrizaga Campean Geraldine| Desarrollador 1 |
+| Iturrizaga Campean Geraldine| Desarrollador 2 |
 | Mejia Poma Liand| Desarrollador 3 |
 | Reymundo Rodriguez Cristhian| Desarrollador 4 |

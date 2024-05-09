@@ -5,5 +5,10 @@ alarmas personalizadas para recordatorios importantes, utilizar un temporizador 
 y aprovechar la técnica Pomodoro para mejorar su productividad y concentración. Con una interfaz intuitiva y opciones de personalización, nuestra 
 aplicación se adapta a las necesidades individuales de cada usuario, ayudándolos a gestionar su tiempo de manera eficiente y efectiva.
 
-
-
+# INTEGRANTES 
+| APELLIDOS Y NOMBRES | ROL | 
+|---------------------|---|
+| Acevedo Ura Smtih| Desarrollador 1 |
+| Iturrizaga Campean Geraldine| Desarrollador 1 |
+| Mejia Poma Liand| Desarrollador 3 |
+| Reymundo Rodriguez Cristhian| Desarrollador 4 |

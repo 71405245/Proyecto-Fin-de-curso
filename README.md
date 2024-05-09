@@ -1,5 +1,5 @@
 # Proyecto-Fin-de-curso
-# OBJETIVO DEL PROYECTO
+# DESCRIPCION DEL PROYECTO
 Nuestro proyecto consiste en desarrollar una aplicación versátil y fácil de usar que ofrece tres funcionalidades principales: configuración de alarmas, 
 temporizador estándar y técnica de gestión del tiempo conocida como el método Pomodoro. Con nuestra aplicación, los usuarios pueden establecer 
 alarmas personalizadas para recordatorios importantes, utilizar un temporizador estándar para cualquier tarea que requiera un límite de tiempo 
